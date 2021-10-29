@@ -8,6 +8,7 @@ LCOF
 | 05. 替换空格 |  | [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | Easy | |
 | 06. 从尾到头打印链表 |  | [剑指 Offer 06. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | Easy | 链表 |
 | 09. 用两个栈实现队列 |      | [剑指 Offer 09. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | Easy | 栈与队列 |
+| 18. 删除链表的节点 | | [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | Easy |  |
 | 24. 反转链表 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [剑指 Offer 24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | Easy | 链表 |
 | 27. 二叉树的镜像 |  | [剑指 Offer 27. 二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | Easy | 搜索与回溯算法（简单） |
 | 28. 对称的二叉树 | 101 | [剑指 Offer 28. 对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | Easy | 搜索与回溯算法（简单） |
