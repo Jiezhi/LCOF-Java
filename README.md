@@ -18,4 +18,5 @@ LCOF
 | 46. 把数字翻译成字符串 |  | [剑指 Offer 46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | Medium | 动态规划（中等） |
 | 47. 礼物的最大价值 |  | [剑指 Offer 47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | Medium | 动态规划（中等） |
 | 48. 最长不含重复字符的子字符串 | 3 | [剑指 Offer 48. 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) |  |  |
+| 57. 和为s的两个数字 |  | [剑指 Offer 57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | | |
 
