@@ -35,7 +35,7 @@ public class LCOF053_2 {
     public int missingNumber(int[] nums) {
         int l = 0;
         int h = nums.length - 1;
-        int mid = 0;
+        int mid;
         while (l <= h) {
             mid = l + (h - l) / 2;
             if (nums[mid] == mid) l = mid + 1;

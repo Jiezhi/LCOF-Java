@@ -1,6 +1,5 @@
 package io.github.jiezhi.lcof;
 
-import io.github.jiezhi.lcof.helper.ListNode;
 import io.github.jiezhi.lcof.helper.TreeNode;
 
 import java.util.ArrayList;
