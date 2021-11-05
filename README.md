@@ -23,6 +23,7 @@ LCOF
 | 48. 最长不含重复字符的子字符串 | 3 | [剑指 Offer 48. 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) |  |  |
 | 53 - I. 在排序数组中查找数字 I | 34 | [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | Easy | 查找算法（简单） |
 | 53 - II. 0～n-1中缺失的数字 |  | [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) |  |  |
+| 55 - I. 二叉树的深度 | 104 | [剑指 Offer 55 - I. 二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) | Easy | 搜索与回溯算法（中等） |
 | 57. 和为s的两个数字 |  | [剑指 Offer 57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | | 双指针（简单） |
 | 58 - I. 翻转单词顺序 | 151 | [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | | 双指针（简单） |
 

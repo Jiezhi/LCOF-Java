@@ -1,7 +1,7 @@
 package io.github.jiezhi.lcof.helper;
 
-import java.util.Arrays;
 import java.util.Objects;
+import java.util.stream.Stream;
 
 
 public class TreeNode {
@@ -13,13 +13,18 @@ public class TreeNode {
         val = x;
     }
 
-    public static TreeNode build(int[] nums) {
+
+    public static TreeNode build(Integer[] nums) {
         if (nums == null || nums.length == 0) {
             return null;
         }
         TreeNode[] treeNodes = new TreeNode[nums.length];
         for (int i = 0; i < nums.length; i++) {
-            treeNodes[i] = new TreeNode(nums[i]);
+            if (nums[i] == null) {
+                treeNodes[i] = null;
+            } else {
+                treeNodes[i] = new TreeNode(nums[i]);
+            }
         }
         int i = 0;
         while (i < nums.length) {

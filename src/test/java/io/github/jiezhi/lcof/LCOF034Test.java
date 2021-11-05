@@ -20,7 +20,7 @@ public class LCOF034Test {
         ans.add(4);
         List<List<Integer>> anss = new ArrayList<>();
         anss.add(ans);
-        assertEquals(anss, solution.pathSum(TreeNode.build(new int[]{1, 2, 3, 4, 5, 6}), 7));
+        assertEquals(anss, solution.pathSum(TreeNode.build(new Integer[]{1, 2, 3, 4, 5, 6}), 7));
     }
 
 }
