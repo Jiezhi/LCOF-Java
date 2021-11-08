@@ -7,8 +7,10 @@ LCOF
 | 03. 数组中重复的数字 | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | Medium/Easy |  |
 | 05. 替换空格 |  | [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | Easy | |
 | 06. 从尾到头打印链表 |  | [剑指 Offer 06. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | Easy | 链表 |
+| 07. 重建二叉树 | 105 | [剑指 Offer 07. 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) |  |  |
 | 09. 用两个栈实现队列 |      | [剑指 Offer 09. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | Easy | 栈与队列 |
 | 15. 二进制中1的个数 | 191 | [剑指 Offer 15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | Easy | 位运算（简单） |
+| 12. 矩阵中的路径 | 79 | [剑指 Offer 12. 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | Medium | 搜索与回溯算法（中等） |
 | 18. 删除链表的节点 | | [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | Easy |  |
 | 21. 调整数组顺序使奇数位于偶数前面 | | [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | Easy | 双指针（简单） |
 | 22. 链表中倒数第k个节点 | | [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | Easy |  |
@@ -18,6 +20,7 @@ LCOF
 | 28. 对称的二叉树 | 101 | [剑指 Offer 28. 对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | Easy | 搜索与回溯算法（简单） |
 | 30. 包含min函数的栈 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | [剑指 Offer 30. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) | Easy | 栈与队列 |
 | 34. 二叉树中和为某一值的路径 |  | [剑指 Offer 34. 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) |  |  |
+| 40. 最小的k个数 | | [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | Easy | 排序（中等） |
 | 42. 连续子数组的最大和 | 53 | [剑指 Offer 42. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | Easy | 动态规划（中等） |
 | 46. 把数字翻译成字符串 |  | [剑指 Offer 46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | Medium | 动态规划（中等） |
 | 47. 礼物的最大价值 |  | [剑指 Offer 47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | Medium | 动态规划（中等） |
