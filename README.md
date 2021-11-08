@@ -27,4 +27,5 @@ LCOF
 | 55 - I. 二叉树的深度 | 104 | [剑指 Offer 55 - I. 二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) | Easy | 搜索与回溯算法（中等） |
 | 57. 和为s的两个数字 |  | [剑指 Offer 57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | | 双指针（简单） |
 | 58 - I. 翻转单词顺序 | 151 | [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | | 双指针（简单） |
+| 65. 不用加减乘除做加法 | 371 | [剑指 Offer 65. 不用加减乘除做加法](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) | |  |
 
