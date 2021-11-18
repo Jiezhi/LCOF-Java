@@ -34,5 +34,6 @@ LCOF
 | 58 - I. 翻转单词顺序 | 151 | [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | | 双指针（简单） |
 | 58 - II. 左旋转字符串 |  | [剑指 Offer 58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | |  |
 | 59 - I. 滑动窗口的最大值 | 239 | [剑指 Offer 59 - I. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | Hard | 栈与队列（困难） |
+| 59 - II. 队列的最大值 |  | [剑指 Offer 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | Medium | 栈与队列（困难） |
 | 65. 不用加减乘除做加法 | 371 | [剑指 Offer 65. 不用加减乘除做加法](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) | |  |
 
