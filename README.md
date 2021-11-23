@@ -9,8 +9,8 @@ LCOF
 | 06. 从尾到头打印链表 |  | [剑指 Offer 06. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | Easy | 链表 |
 | 07. 重建二叉树 | 105 | [剑指 Offer 07. 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) |  |  |
 | 09. 用两个栈实现队列 |      | [剑指 Offer 09. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | Easy | 栈与队列 |
-| 15. 二进制中1的个数 | 191 | [剑指 Offer 15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | Easy | 位运算（简单） |
 | 12. 矩阵中的路径 | 79 | [剑指 Offer 12. 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | Medium | 搜索与回溯算法（中等） |
+| 15. 二进制中1的个数 | 191 | [剑指 Offer 15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | Easy | 位运算（简单） |
 | 17. 打印从1到最大的n位数 |  | [剑指 Offer 17. 打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | Easy | 分治算法（困难） |
 | 18. 删除链表的节点 | | [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | Easy |  |
 | 19. 正则表达式匹配 | 10 | [剑指 Offer 19. 正则表达式匹配](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/) | Hard | 动态规划（困难） |
