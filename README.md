@@ -13,6 +13,7 @@ LCOF
 | 12. 矩阵中的路径 | 79 | [剑指 Offer 12. 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | Medium | 搜索与回溯算法（中等） |
 | 17. 打印从1到最大的n位数 |  | [剑指 Offer 17. 打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | Easy | 分治算法（困难） |
 | 18. 删除链表的节点 | | [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | Easy |  |
+| 19. 正则表达式匹配 | 10 | [剑指 Offer 19. 正则表达式匹配](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof/) | Hard | 动态规划（困难） |
 | 21. 调整数组顺序使奇数位于偶数前面 | | [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | Easy | 双指针（简单） |
 | 22. 链表中倒数第k个节点 | | [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | Easy |  |
 | 24. 反转链表 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [剑指 Offer 24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | Easy | 链表 |
@@ -21,6 +22,7 @@ LCOF
 | 28. 对称的二叉树 | 101 | [剑指 Offer 28. 对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | Easy | 搜索与回溯算法（简单） |
 | 30. 包含min函数的栈 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | [剑指 Offer 30. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) | Easy | 栈与队列 |
 | 34. 二叉树中和为某一值的路径 |  | [剑指 Offer 34. 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) |  |  |
+| 38. 字符串的排列 | | [剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | | |
 | 40. 最小的k个数 | | [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | Easy | 排序（中等） |
 | 42. 连续子数组的最大和 | 53 | [剑指 Offer 42. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | Easy | 动态规划（中等） |
 | 46. 把数字翻译成字符串 |  | [剑指 Offer 46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | Medium | 动态规划（中等） |
