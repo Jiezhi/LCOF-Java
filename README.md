@@ -18,6 +18,7 @@ LCOF
 | 22. 链表中倒数第k个节点 | | [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | Easy |  |
 | 24. 反转链表 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [剑指 Offer 24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | Easy | 链表 |
 | 25. 合并两个排序的链表 | 21 | [剑指 Offer 25. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | Easy | 双指针（简单） |
+| 26. 树的子结构 |  | [剑指 Offer 26. 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | Medium |  |
 | 27. 二叉树的镜像 |  | [剑指 Offer 27. 二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | Easy | 搜索与回溯算法（简单） |
 | 28. 对称的二叉树 | 101 | [剑指 Offer 28. 对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | Easy | 搜索与回溯算法（简单） |
 | 30. 包含min函数的栈 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | [剑指 Offer 30. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) | Easy | 栈与队列 |
