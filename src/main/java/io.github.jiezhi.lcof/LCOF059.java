@@ -1,8 +1,8 @@
 package io.github.jiezhi.lcof;
 
-import com.sun.jmx.remote.internal.ArrayQueue;
-
-import java.util.*;
+import java.util.ArrayDeque;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * CREATED AT: 2021/11/16
