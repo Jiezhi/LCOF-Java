@@ -5,6 +5,7 @@ LCOF
 | Question |  LC   |   LCCN    |   Difficulty   | Remark |
 | -------- | ---- | ---- | ---- | -------- |
 | 03. 数组中重复的数字 | [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [剑指 Offer 03. 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | Medium/Easy |  |
+| 04. 二维数组中的查找 | 240 | [剑指 Offer 04. 二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | Medium | |
 | 05. 替换空格 |  | [剑指 Offer 05. 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | Easy | |
 | 06. 从尾到头打印链表 |  | [剑指 Offer 06. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | Easy | 链表 |
 | 07. 重建二叉树 | 105 | [剑指 Offer 07. 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) |  |  |
