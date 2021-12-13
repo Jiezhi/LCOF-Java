@@ -5,10 +5,10 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 
-public class LCOFII002Test {
+public class LCOFII001Test {
     @Test
     public void test() {
-        LCOFII002 solution = new LCOFII002();
+        LCOFII001 solution = new LCOFII001();
         assertEquals(7, solution.divide(15, 2));
         assertEquals(-2, solution.divide(7, -3));
         assertEquals(1, solution.divide(1, 1));

@@ -23,7 +23,7 @@ package io.github.jiezhi.lcof2;
  * 链接：https://leetcode-cn.com/problems/xoh6Oh
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class LCOFII002 {
+public class LCOFII001 {
     /**
      * 参考书本 P2~3
      * Notes:
