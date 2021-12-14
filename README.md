@@ -1,4 +1,5 @@
 # LCOF-Java
+[![Java CI with Maven](https://github.com/Jiezhi/LCOF-Java/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Jiezhi/LCOF-Java/actions/workflows/maven.yml)
 
 ## LCOF
 
