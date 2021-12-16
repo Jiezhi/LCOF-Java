@@ -51,4 +51,6 @@
 | 001. 整数除法               | 29   | [剑指 Offer II 001. 整数除法](https://leetcode-cn.com/problems/xoh6Oh/) | Easy       |        |
 | 002. 二进制加法             | 67   | [剑指 Offer II 002. 二进制加法](https://leetcode-cn.com/problems/JFETK5/) | Easy       |        |
 | 006. 排序数组中两个数字之和 | 167  | [剑指 Offer II 006. 排序数组中两个数字之和](https://leetcode-cn.com/problems/kLl5u1/) | Easy       |        |
+| 012. 左右两边子数组的和相等 | 724  | [剑指 Offer II 012. 左右两边子数组的和相等](https://leetcode-cn.com/problems/tvdfij/) | Easy       |        |
+
 
