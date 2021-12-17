@@ -46,9 +46,10 @@
 
 ## LCOF II
 
-| Question                    | LC   | LCCN                                                         | Difficulty | Remark |
-| --------------------------- | ---- | ------------------------------------------------------------ | ---------- | ------ |
-| 001. 整数除法               | 29   | [剑指 Offer II 001. 整数除法](https://leetcode-cn.com/problems/xoh6Oh/) | Easy       |        |
-| 002. 二进制加法             | 67   | [剑指 Offer II 002. 二进制加法](https://leetcode-cn.com/problems/JFETK5/) | Easy       |        |
-| 006. 排序数组中两个数字之和 | 167  | [剑指 Offer II 006. 排序数组中两个数字之和](https://leetcode-cn.com/problems/kLl5u1/) | Easy       |        |
+| Question                                                     | LC   | LCCN                                                         | Difficulty | Remark |
+| ------------------------------------------------------------ | ---- | ------------------------------------------------------------ | ---------- | ------ |
+| 001. 整数除法                                                | 29   | [剑指 Offer II 001. 整数除法](https://leetcode-cn.com/problems/xoh6Oh/) | Easy       |        |
+| 002. 二进制加法                                              | 67   | [剑指 Offer II 002. 二进制加法](https://leetcode-cn.com/problems/JFETK5/) | Easy       |        |
+| 006. 排序数组中两个数字之和                                  | 167  | [剑指 Offer II 006. 排序数组中两个数字之和](https://leetcode-cn.com/problems/kLl5u1/) | Easy       |        |
+| [剑指 Offer II 018. 有效的回文](https://leetcode-cn.com/problems/XltzEq/) | 125  | [剑指 Offer II 018. 有效的回文](https://leetcode-cn.com/problems/XltzEq/) | Easy       |        |
 
