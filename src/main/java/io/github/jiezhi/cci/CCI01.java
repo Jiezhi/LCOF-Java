@@ -20,6 +20,10 @@ import java.util.List;
 public class CCI01 {
     /**
      * Question： 字符取值范围?
+     * 17 / 17 个通过测试用例
+     * 状态：通过
+     * 执行用时: 0 ms
+     * 内存消耗: 36.2 MB
      * <p>
      * 如果你不使用额外的数据结构，会很加分。
      *
