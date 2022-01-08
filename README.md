@@ -1,5 +1,6 @@
 # LCOF-Java
 [![Java CI with Maven](https://github.com/Jiezhi/LCOF-Java/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Jiezhi/LCOF-Java/actions/workflows/maven.yml)
+[![](https://stats.justsong.cn/api/leetcode/?username=taobao&cn=true)](https://leetcode-cn.com/u/taobao/)
 
 ## LCOF
 
