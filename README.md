@@ -44,7 +44,7 @@
 | 59 - I. 滑动窗口的最大值 | 239 | [剑指 Offer 59 - I. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | Hard | 栈与队列（困难） |
 | 59 - II. 队列的最大值 |  | [剑指 Offer 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | Medium | 栈与队列（困难） |
 | 65. 不用加减乘除做加法 | 371 | [剑指 Offer 65. 不用加减乘除做加法](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) | |  |
-
+---
 ## LCOF II
 
 | Question                    | LC   | LCCN                                                         | Difficulty | Remark |
